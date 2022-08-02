@@ -13,6 +13,8 @@ Certificate of Completion I Earned: <a href="https://coursera.org/verify/UY67RTQ
 </h4></pre>
 <br>
 <i>This course was easy to learn for me because I was already familiar with the topics taught in it. I have also learnt many new things from this course. I am grateful to the instructor.</i>
-<br>
+<br><br>
+Learn NumPy further: <a href="https://github.com/yashuv/NumPy-for-Data-Science">click here</a><br>
+Learn NumPy further: <a href="#">coming soon...</a><br>
 <br>
 Thank You! HappY Learning....
